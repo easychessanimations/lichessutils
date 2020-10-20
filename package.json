@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/lichessutils",
+  "version": "1.0.1",
+  "description": "Package lichessutils.",
+  "main": "./lib/lichessutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lichessutils": "./lib/lichessutils.js"
+  },
+  "keywords": [
+    "lichessutils"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/lichessutils",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/lichessutils/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/lichessutils.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
