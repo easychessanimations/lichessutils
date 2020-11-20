@@ -1,6 +1,6 @@
 {
   "name": "@easychessanimations/lichessutils",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Package lichessutils.",
   "main": "./lib/lichessutils.js",
   "scripts": {
